@@ -1,2 +1,3 @@
-# hackmd
-for testing hackmd &lt;-> GH integration
+# HackMD test
+
+As an easy way to edit .md files in GitHub, let's see how this work...
